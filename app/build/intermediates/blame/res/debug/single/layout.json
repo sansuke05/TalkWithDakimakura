@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mic_icon.xml",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\layout\\mic_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mic_icon.xml",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\layout\\mic_icon.xml"
+    }
+]

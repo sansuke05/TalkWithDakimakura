@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\sansuke05\Desktop\SpeechRecSDK_Android_v2.1.1\Sample\SpeechRecForAndroid\app\src\main\assets"/></dataSet><dataSet config="release"><source path="C:\Users\sansuke05\Desktop\SpeechRecSDK_Android_v2.1.1\Sample\SpeechRecForAndroid\app\src\release\assets"/></dataSet></merger>

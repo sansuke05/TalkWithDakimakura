@@ -1,0 +1,695 @@
+[
+    {
+        "outputFile": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 45,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 40,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 48,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 52,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 37,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 37,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 37,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endColumn": 38,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 574,
+                        "endColumn": 46,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 48,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 613,
+                    "endColumn": 50,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 53,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 55,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 45,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 48,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 51,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 58,
+                    "endOffset": 975
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 980,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1675
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 52,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 45,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 45,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 40,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 40,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 48,
+                    "endOffset": 353
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 675,
+                        "endColumn": 48,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 358,
+                    "endColumn": 52,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 52,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 411,
+                    "endColumn": 37,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 37,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 37,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 773,
+                        "endColumn": 37,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 37,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 37,
+                        "endOffset": 882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endColumn": 38,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 46,
+                        "endOffset": 670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 48,
+                    "endOffset": 608
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 318,
+                        "endColumn": 48,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 613,
+                    "endColumn": 50,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 50,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 53,
+                    "endOffset": 713
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 53,
+                        "endOffset": 462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 718,
+                    "endColumn": 55,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 467,
+                        "endColumn": 55,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 45,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 45,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 48,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 48,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 53,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 264,
+                        "endColumn": 53,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 51,
+                    "endOffset": 970
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 51,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 975,
+                    "endColumn": 58,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1729
+                },
+                "from": {
+                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 763
+                    }
+                }
+            }
+        ]
+    }
+]
