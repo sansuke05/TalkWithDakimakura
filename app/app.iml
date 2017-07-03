@@ -88,16 +88,16 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="jackson-core-2.2.3" level="project" />
-    <orderEntry type="library" exported="" name="android-websockets" level="project" />
     <orderEntry type="library" exported="" name="jackson-databind-2.2.3" level="project" />
-    <orderEntry type="library" exported="" name="docomo-common-android-sdk-1.0.2" level="project" />
-    <orderEntry type="library" exported="" name="speechrec-service" level="project" />
-    <orderEntry type="library" exported="" name="speechrec-client" level="project" />
-    <orderEntry type="library" exported="" name="jackson-annotations-2.2.3" level="project" />
     <orderEntry type="library" exported="" name="support-v4-19.1.0" level="project" />
-    <orderEntry type="library" exported="" name="speechrec-audio-codecs" level="project" />
+    <orderEntry type="library" exported="" name="jackson-annotations-2.2.3" level="project" />
+    <orderEntry type="library" exported="" name="docomo-common-android-sdk-1.0.2" level="project" />
+    <orderEntry type="library" exported="" name="android-websockets" level="project" />
+    <orderEntry type="library" exported="" name="jackson-core-2.2.3" level="project" />
+    <orderEntry type="library" exported="" name="speechrec-client" level="project" />
+    <orderEntry type="library" exported="" name="speechrec-service" level="project" />
     <orderEntry type="library" exported="" name="sbm" level="project" />
+    <orderEntry type="library" exported="" name="speechrec-audio-codecs" level="project" />
     <orderEntry type="library" exported="" name="docomo-aitalk-android-sdk-1.0.1" level="project" />
   </component>
 </module>

@@ -1,159 +1,239 @@
 [
     {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_2.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_2.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_0.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_0.png"
-    },
-    {
         "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_13.png",
         "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_13.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_11.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_11.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_7.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_7.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_14.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_14.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_4.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_4.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_11.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_11.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_16.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_16.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_15.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_15.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\recognizing.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\recognizing.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_3.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_3.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_9.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_9.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_9.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_9.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_8.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_8.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_12.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_12.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_16.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_16.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_1.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_1.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\recognizing.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\recognizing.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_3.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_3.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\none.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\none.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_1.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_1.png"
     },
     {
         "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_14.png",
         "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_14.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\none.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\none.png"
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_15.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_15.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_6.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_6.png"
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_9.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_9.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_8.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_8.png"
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_4.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_4.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_0.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_0.png"
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_1.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_1.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_4.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_4.png"
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_3.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_3.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_7.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_7.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_13.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_13.png"
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_5.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_5.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_5.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_5.png"
-    },
-    {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_15.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_15.png"
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_12.png",
         "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_12.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_7.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_7.png"
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_16.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_16.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_9.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_9.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_15.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_15.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_12.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_12.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_3.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_3.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_0.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_0.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_2.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_2.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\none.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\none.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_9.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_9.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_6.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_6.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_6.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_6.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_11.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_11.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_0.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_0.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_11.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_11.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_3.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_3.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_14.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_14.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_14.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_14.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_5.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_5.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_8.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_8.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_8.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_8.png"
     },
     {
         "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_10.png",
         "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_10.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_5.png",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_5.png"
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_6.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_6.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_1.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_1.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_16.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_16.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_12.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_12.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_7.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_7.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_4.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_4.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_11.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_11.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_15.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_15.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_13.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_13.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_2.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_2.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_0.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_0.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\recognizing.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\recognizing.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\none.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\none.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\recognizing.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\recognizing.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_10.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_10.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_4.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_4.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_1.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_1.png"
     },
     {
         "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_10.png",
         "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_10.png"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_6.png",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_6.png"
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_8.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_8.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\none.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\none.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_7.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_7.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_16.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_16.png"
+    },
+    {
+        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\recognizing.png",
+        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\recognizing.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_5.png",
+        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_5.png"
+    },
+    {
+        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_13.png",
+        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\drawable-xhdpi\\speak_now_13.png"
     },
     {
         "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\speak_now_2.png",
