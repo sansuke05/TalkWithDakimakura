@@ -2,81 +2,112 @@
 <items version="2" >
 
     <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\speechrec-client.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="49fa2e7892f592c60b99e82e3411451af6b8c773">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\speechrec-client_7639bf4121e88a1646ecf2d0f23344181a3c2317.jar" />
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b3d420e6c0241cc10e1228c830f15850cfac5aa">
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a4e90fb13af52ba6ef0eacf1160bcb106f51e8bb/classes.dex" />
     </item>
     <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\speechrec-audio-codecs.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="658c988aa8c8c88a0e2347b39eeb6a3320275b38">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\speechrec-audio-codecs_9e547df818cae7056479f1b4eae6061b1f5470f7.jar" />
-    </item>
-    <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\sbm.jar"
-        jumboMode="false"
-        revision="23.0.2"
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/sbm.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="a41b50d08a9eac73188fee66c3f13e37c69690fa">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\sbm_8eb225c0d49b6d29077600ff9311374a4e830332.jar" />
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/sbm_756bb5c703462f304f996dfc14c27ab3c4de0db4/classes.dex" />
     </item>
     <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\jackson-databind-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="03ae380888029daefb91d3ecdca3a37d8cb92bc9">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.3_962369c422f742be0d6f1ba365021c1ae6462724.jar" />
-    </item>
-    <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\docomo-common-android-sdk-1.0.2.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="43b965606aa18987d4e5ab23ec3dc97f39ef8481">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\docomo-common-android-sdk-1.0.2_4dc91512e55695da49f660b5a6821f778ccb6a08.jar" />
-    </item>
-    <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\jackson-core-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3_b15861c837755ad13962abde0dc66a3d1c26f360.jar" />
-    </item>
-    <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\docomo-aitalk-android-sdk-1.0.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="9d2c362138d29864058017e7be7b9d5737da6eac">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\docomo-aitalk-android-sdk-1.0.1_01cc0fa5c8c4b5004d5a2154fd1ace9a1f9f8a00.jar" />
-    </item>
-    <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\jackson-annotations-2.2.3.jar"
-        jumboMode="false"
-        revision="23.0.2"
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/jackson-annotations-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="0527fece4f23a457070a36c371a26d6c0208e1c3">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.3_842d39f88618a3ddc7f18d6e82baea7896d7842a.jar" />
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-annotations-2.2.3_c4a70c93fc877a30670904ac061d22dc5bce8902/classes.dex" />
     </item>
     <item
-        jar="C:\Users\sansuke05\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_105d2a4388a1c763faf93254ae84cee8574f6b47.jar" />
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/jackson-databind-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03ae380888029daefb91d3ecdca3a37d8cb92bc9">
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-databind-2.2.3_4da171c700b0a7afc04bbdf40a7ff3b0b8f4f97c/classes.dex" />
     </item>
     <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\speechrec-service.jar"
-        jumboMode="false"
-        revision="23.0.2"
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/jackson-core-2.2.3_bc068368051fa2dc4833a1c5c7f0338a0d7b6f98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/docomo-common-android-sdk-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b965606aa18987d4e5ab23ec3dc97f39ef8481">
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/docomo-common-android-sdk-1.0.2_0c337a5922525c33f515a7735c2bad1abfdc9010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/speechrec-service.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="4190fc17a6f6c07ebb0063670d21ea875513345b">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\speechrec-service_a373cad02f44f9a026fddc908d5ba7ca4972ade2.jar" />
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/speechrec-service_cf882561d03562edd146940278a6cd98d7c794ef/classes.dex" />
     </item>
     <item
-        jar="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\libs\android-websockets.jar"
-        jumboMode="false"
-        revision="23.0.2"
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/speechrec-audio-codecs.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="658c988aa8c8c88a0e2347b39eeb6a3320275b38">
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/speechrec-audio-codecs_f2d2e84bef71a3d17f3926f3e3a19f38e3449ff3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/speechrec-client.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="49fa2e7892f592c60b99e82e3411451af6b8c773">
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/speechrec-client_3c6fe4f395a726d2cb351356b149c15fd02b4145/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/android-websockets.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="90db77fcaf0d16a8134f846fdc74963d23f48a6f">
-        <dex dex="C:\cygwin64\home\sansuke05\projects\TalkingWithDakimakura\SpeechRecForAndroid\app\build\intermediates\pre-dexed\debug\android-websockets_02562b83b419e38cec6886652c3741d2d8b4038d.jar" />
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-websockets_e1bb31d11dbf7d9958a882f39cdedcbba9aa8c09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b3859767c861bfac013374a162ab9ea486a18ca3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/libs/docomo-aitalk-android-sdk-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d2c362138d29864058017e7be7b9d5737da6eac">
+        <dex dex="/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/transforms/dex/debug/folders/1000/2/docomo-aitalk-android-sdk-1.0.1_da2864ef858bb929ade8f26d2d475e04cc52e8ef/classes.dex" />
     </item>
 
 </items>

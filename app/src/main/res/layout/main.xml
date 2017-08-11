@@ -36,7 +36,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="68dp"
-        android:text="Bluetooth Connect"
+        android:text="発話開始"
         android:id="@+id/button"
         android:layout_gravity="center"/>
 

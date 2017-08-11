@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "outputFile": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -38,7 +38,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -64,7 +64,33 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

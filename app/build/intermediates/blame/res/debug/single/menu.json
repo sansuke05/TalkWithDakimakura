@@ -1,14 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/res/menu/main.xml"
     },
     {
-        "merged": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\Users\\sansuke05\\Desktop\\SpeechRecSDK_Android_v2.1.1\\Sample\\SpeechRecForAndroid\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\Users\\sansuke05\\AndroidStudioProjects\\SpeechRecForAndroid\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "/Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/C:\\cygwin64\\home\\sansuke05\\projects\\TalkingWithDakimakura\\SpeechRecForAndroid\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]
