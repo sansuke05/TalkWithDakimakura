@@ -251,6 +251,7 @@ public class MainActivity extends Activity implements LoaderManager.LoaderCallba
 	@Override
 	public void onClick(View v) {
 		if(v.equals(connectButton)) {
+			/*
 			// 接続されていない場合のみ
 			if (!connectFlg) {
 				Log.d("bluetooth","connect start!");
@@ -261,6 +262,14 @@ public class MainActivity extends Activity implements LoaderManager.LoaderCallba
 				isRunning = true;
 				mThread.start();
 			}
+			*/
+			Intent intent = new Intent(MainActivity.this, RecognitionActivity.class);
+			// SBMモードは廃止の為、設定しない
+			//int sbm_mode = radioHigh.isChecked() ? 0 : 1;
+			//intent.putExtra(RecognitionActivity.KEY_SBM_MODE, sbm_mode);
+			intent.putExtra(RecognitionActivity.KEY_API_KEY, "644a4b4f325168524f4a4e2f774674617351497a39636c617443396f322e4f6e7257627a7846414d444635");
+			startActivityForResult(intent, RECOGNIZE_ACTIVITY_REQUEST_ID);
+			//mInputTextView.setText(msgStr);
 		}
 	}
 
