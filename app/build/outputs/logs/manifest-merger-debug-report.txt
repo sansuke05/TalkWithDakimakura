@@ -1,6 +1,12 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml
@@ -9,12 +15,12 @@ ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/
 		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:5:5-32
 		INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
 		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml
-	xmlns:android
-		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.RECORD_AUDIO
 ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:7:5-71
 	android:name
@@ -33,6 +39,10 @@ ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/
 		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:10:22-71
 uses-sdk
 ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:12:5-14:41
+INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:12:5-14:41
 	android:targetSdkVersion
 		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:14:9-38
 		INJECTED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml
@@ -45,10 +55,10 @@ application
 ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:16:5-39:19
 	android:label
 		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:19:9-41
-	android:allowBackup
-		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:17:9-35
 	android:icon
 		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:17:9-35
 	android:theme
 		ADDED from /Users/user/projects/AndroidStudioProjects/TalkingWithDakimakura/app/src/main/AndroidManifest.xml:20:9-44
 activity#jp.co.nttit.SpeechRec.sample.MainActivity
